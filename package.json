@@ -1,0 +1,26 @@
+{
+  "name": "serverside-node-app-basic",
+  "version": "1.0.0",
+  "description": "This is a basic data input app by Afreed, build with Express js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/afreed-bin-haque/Serverside-node-app-basic.git"
+  },
+  "keywords": [
+    "example",
+    "data"
+  ],
+  "author": "Afreed Bin Haque",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/afreed-bin-haque/Serverside-node-app-basic/issues"
+  },
+  "homepage": "https://github.com/afreed-bin-haque/Serverside-node-app-basic#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
